@@ -1,0 +1,2 @@
+PessoaJuridicaRepo
+repository.PessoaJuridicaRepo
